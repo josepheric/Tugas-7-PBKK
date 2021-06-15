@@ -1,0 +1,14 @@
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\bin\Debug\netstandard2.0\MobileXamarin.deps.json
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\bin\Debug\netstandard2.0\MobileXamarin.dll
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\bin\Debug\netstandard2.0\ref\MobileXamarin.dll
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\bin\Debug\netstandard2.0\MobileXamarin.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.csprojAssemblyReference.cache
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.AssemblyInfoInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.AssemblyInfo.cs
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.csproj.CoreCompileInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.dll
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\ref\MobileXamarin.dll
+R:\Tugas Sekolah\Sems 6\pbkk\MobileXamarin\MobileXamarin\MobileXamarin\obj\Debug\netstandard2.0\MobileXamarin.pdb
